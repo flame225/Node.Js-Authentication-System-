@@ -1,0 +1,3 @@
+This is a fully Functional Login, Register and Logout System Using Node.JS, Express, Passport and More...
+User authentication and login.
+This project i created a user authentication and login with Nodejs using Express for our server backend and Passport to help us manage the logged in state of users, i also make sure to properly encrypt and hash all user passwords so that our application is completely secure.
